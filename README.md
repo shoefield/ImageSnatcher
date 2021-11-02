@@ -1,6 +1,14 @@
 # ImageSnatcher
 Exploiting prnt.sc and its poor image hosting URLs.
 
+# READ THIS
+You will need to install the module BeautifulSoup4. You also need **Python 3**.
+
+```
+pip3 install -r /path/to/requirements.txt
+```
+
+
 # How it works?
 Prnt.sc hosts images under a specific URL, generated from a string of two letters followed by four numbers. For example:
 ```
