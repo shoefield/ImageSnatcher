@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ImageSnatcher
 Exploiting prnt.sc and its poor image hosting URLs.
 
@@ -14,6 +13,3 @@ Users that use image hosting sites should be aware that their images are not pri
 
 # Disclaimer
 I am not responsible for anything very strange or incriminating you find.
-=======
-# ImageSnatcher
->>>>>>> refs/remotes/origin/master
